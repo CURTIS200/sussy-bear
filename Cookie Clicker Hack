@@ -1,1 +1,2 @@
-
+Game.cookies = prompt("How many cookies");
+/* You can get as many cookies as you want. */
